@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<YealinkIPPhoneDirectory>
+  <Title>ST203 Test Site Phone Book</Title>
+  <DirectoryEntry>
+    <Name>1-800-WEGMANS</Name>
+    <Telephone>18009346267</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Evan Dewart Cell</Name>
+    <Telephone>15854156334</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Jeremy Tice Desk</Name>
+    <Telephone>85005444</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
